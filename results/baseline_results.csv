@@ -1,0 +1,2 @@
+model,loss,perplexity,accuracy
+Training unigram,6.8505924865282575,944.4403090958965,0.0582779124379158
