@@ -1,0 +1,6 @@
+torch>=2.0
+datasets
+numpy
+pandas
+matplotlib
+jupyter
